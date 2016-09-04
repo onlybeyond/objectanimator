@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ObjectAnimatorDemo</string>
+
+    <string name="test_first">测试一</string>
+    <string name="test_second">测试二</string>
+    <string name="test_three">测试三</string>
+    <string name="test_four">测试四</string>
+    <string name="object_animator">属性动画</string>
+</resources>

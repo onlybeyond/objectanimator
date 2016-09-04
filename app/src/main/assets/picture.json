@@ -1,0 +1,34 @@
+{
+
+  "albumTest":[
+    {
+      "pictureName":"hello001",
+      "hScale":"0.5346",
+      "wScale":"0.5346",
+      "yScale":"0.08450000000000001",
+      "xScale":"0.3841"
+    },
+    {
+      "pictureName":"hello002",
+      "hScale":"0.53",
+      "wScale":"0.53",
+      "yScale":"0.3645",
+      "xScale":"0.1049"
+    },
+    {
+      "pictureName":"hello003",
+      "hScale":"0.441",
+      "wScale":"0.441",
+      "yScale":"0.1406",
+      "xScale":"0.288"
+    },
+    {
+      "pictureName":"hello004",
+      "hScale":"0.53",
+      "wScale":"0.53",
+      "yScale":"0.2323",
+      "xScale":"0.068"
+    }
+  ]
+
+}

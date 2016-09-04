@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".ui.activity.MainActivity">
+    <include layout="@layout/toolbar_basic"/>
+    <TextView
+        android:id="@+id/tv_test_first"
+        android:gravity="center"
+        android:textSize="@dimen/font_14"
+        android:layout_width="80dp"
+        android:layout_marginTop="50dp"
+        android:layout_height="30dp"
+        android:text="@string/test_first" />
+    <TextView
+        android:id="@+id/tv_test_second"
+        android:gravity="center"
+        android:textSize="@dimen/font_14"
+        android:layout_width="80dp"
+        android:layout_marginTop="50dp"
+        android:layout_height="30dp"
+        android:text="@string/test_second" />
+    <TextView
+        android:id="@+id/tv_test_three"
+        android:gravity="center"
+        android:textSize="@dimen/font_14"
+        android:layout_width="80dp"
+        android:layout_marginTop="50dp"
+        android:layout_height="30dp"
+        android:text="@string/test_three" />
+    <TextView
+        android:id="@+id/tv_test_four"
+        android:gravity="center"
+        android:textSize="@dimen/font_14"
+        android:layout_width="80dp"
+        android:layout_marginTop="50dp"
+        android:layout_height="30dp"
+        android:text="@string/test_four" />
+</LinearLayout>
